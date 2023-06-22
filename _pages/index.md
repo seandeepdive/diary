@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome! 🌱
 
-<strong>Recently updated notes</strong>d
+<strong>Recently updated notes</strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
