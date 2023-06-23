@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-## Welcome to the RoughArchive for deep dive into Sean!😎
+## Welcome to the RoughArchive for deep dive into Sean! 😎
 
 <strong>최근 업로드 글</strong>
 
