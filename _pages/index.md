@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome to RoughArchive for deep dive into Sean!😎
 
 <strong>Recently updated notes</strong>
 
