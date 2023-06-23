@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome to RoughArchive for deep dive into Sean!😎
 
-<strong>Recently updated notes</strong>
+<strong>최근 업로드 글</strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
